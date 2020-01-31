@@ -1,5 +1,0 @@
-I"�<p>This is my basic Pong clone. I think I made it in 2014, so this is one of my first attempts at solo game development after university. It uses <a href="https://www.libsdl.org/">SDL</a> as a framework, and the code is written in C++. It has a basic “AI” that you play against, but it really just follows the ball loosely.
-<br />
-<br />
-<img src="https://beetron.github.io/images/games/pong.png" alt="Screenshot" /></p>
-:ET
