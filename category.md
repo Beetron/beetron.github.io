@@ -24,7 +24,7 @@ permalink: /category/
   {% assign list = category[1] %}  
   {% for post in list %}
    <li>
-   <a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
+   <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
    </li>
   {% endfor %}
   {% assign pages_list = nil %}
