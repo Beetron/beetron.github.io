@@ -2,4 +2,4 @@ _site
 *.swp
 .jekyll-cache
 .jekyll-metadata
-/demos/DemoTemplate
+/demos/DemoTemplate.md
