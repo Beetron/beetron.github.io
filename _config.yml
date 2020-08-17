@@ -1,12 +1,12 @@
 # Site settings
-title: "beetron"
+title: "redgum"
 bye_message: "Cheers."
 #url: ""
-url: "https://www.redguminteractive.com.au/"
+url: "https://www.redguminteractive.com.au"
 # disqus: gjuniioor
 
 # Header settings
-nick: "beetron"
+nick: "liam"
 #mail:
 #    domain: "protonmail"
 #    ext: "ch"
