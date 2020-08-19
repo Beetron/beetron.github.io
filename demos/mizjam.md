@@ -9,4 +9,4 @@ title: "Untitled Tamagotchi Game Alpha"
 * Match the correct food with left click
 * Open trapdoors to let in the green victims
 
-# <a href="{{ site.url }}/demos/mizjam/Mizjam">PLAY HERE</a>
+# <a href="{{ site.url }}/demos/mizjam/MizJam">PLAY HERE</a>
