@@ -12,6 +12,6 @@ Developed between June 2020 - November 2020.
 
 Utilized the [Godot Engine](https://godotengine.org/), made all the sprites with [Aseprite](https://www.aseprite.org/), and created the sound effects with [bfxr](https://www.bfxr.net/).
 
-More info can be found <a href="{{ site.url }}/blog/LarrikinQuest/">here</a>. 
+More info can be found <a href="{{ site.url }}/blog/larrikinquest/">here</a>. 
 
 [Source code](https://github.com/Beetron/2d-aussie-rpg)
