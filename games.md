@@ -2,6 +2,9 @@
 layout: games
 title: "Games"
 ---
+### Larrikin Quest
+<a href="{{ site.url }}/games/larrikinquest"><img src="{{ site.url }}/images/games/larrikinquest.png" title="GotchiWare"></a>
+
 ### GotchiWare
 <a href="{{ site.url }}/games/gotchiware"><img src="{{ site.url }}/images/games/gotchiware.png" title="GotchiWare"></a>
 
