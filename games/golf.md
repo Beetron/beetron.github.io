@@ -8,4 +8,4 @@ title: "2D Golf"
 
 This is my 2D golf game. Not sure exactly how long it took to make but my estimate is around 2-3 weeks of development spread over a few months. This game was my first made in Godot, and I think the engine was pretty easy to use and I could see potential in it.
 
-<a href="https://github.com/Beetron/2dgolf">Source code is here</a>
+<a href="https://github.com/TheloniousBee/2dgolf">Source code is here</a>

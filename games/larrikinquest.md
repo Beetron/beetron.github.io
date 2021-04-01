@@ -14,4 +14,4 @@ Utilized the [Godot Engine](https://godotengine.org/), made all the sprites with
 
 More info can be found <a href="{{ site.url }}/blog/larrikinquest/">here</a>. 
 
-[Source code](https://github.com/Beetron/2d-aussie-rpg)
+[Source code](https://github.com/TheloniousBee/2d-aussie-rpg)

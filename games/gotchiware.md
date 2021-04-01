@@ -13,4 +13,4 @@ More info can be found <a href="{{ site.url }}/blog/MizJam/">here</a>.
 [itch.io page](https://redguminteractive.itch.io/gotchiware)
 
 
-[Source code](https://github.com/Beetron/miz-jam)
+[Source code](https://github.com/TheloniousBee/miz-jam)
