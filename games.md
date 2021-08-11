@@ -2,8 +2,11 @@
 layout: games
 title: "Games"
 ---
+### The Travelling Hexagon
+<a href="{{ site.url }}/games/travellinghexagon"><img src="{{ site.url }}/images/games/travellinghexagon.png" title="TravelllingHexagon"></a>
+
 ### Larrikin Quest
-<a href="{{ site.url }}/games/larrikinquest"><img src="{{ site.url }}/images/games/larrikinquest.png" title="GotchiWare"></a>
+<a href="{{ site.url }}/games/larrikinquest"><img src="{{ site.url }}/images/games/larrikinquest.png" title="LarrikinQuest"></a>
 
 ### GotchiWare
 <a href="{{ site.url }}/games/gotchiware"><img src="{{ site.url }}/images/games/gotchiware.png" title="GotchiWare"></a>
