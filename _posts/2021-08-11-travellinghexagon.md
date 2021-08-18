@@ -9,14 +9,14 @@ tags:
     - travellinghexagon
 ---
 
-In June of last year I finished my 2D Golf game. 14 months later and I've done three game jams and made two more bigger games. This game is the most complex game I've created in Godot so far. 
+In June of last year I finished my 2D Golf game. 14 months later and I've done three game jams and made two more bigger games. This game is the most complex game I've created in Godot so far.
 Whilst it's not very pretty, I made sure to make it look as clean as possible to communicate to the player in a simple way.
 
 The purpose for this game was to increase the scope of game I could handle, try more new things out, and release it onto something public.
 
 ## The Idea
 
-The roots of the ideas of these games comes from playing games like Starseed Pilgrim, The Witness, along with hexagonal grids. I liked the idea of a hexagonal grid where tiles would have different behaviours and each tile interacted with every other tile in interesting ways. 
+The roots of the ideas of these games comes from playing games like Starseed Pilgrim, The Witness, along with hexagonal grids. I liked the idea of a hexagonal grid where tiles would have different behaviours and each tile interacted with every other tile in interesting ways.
 
 My main problems in working out how the game would play was:
 
@@ -48,18 +48,18 @@ I aimed for 60 levels of increasing complexity. I built a level editor pretty ea
 ## New stuff I tried out in development
 #### Vector Art
 
-About midway through development I realized that pixel art for this game could be changed into vector art and it would result in cleaner looking lines. So I learned the basics of my first vector art program, <a href=https://inkscape.org/>Inkscape</a> and using my existing pixel art as a start, made vector art versions of my tiles.
+About midway through development I realized that pixel art for this game could be changed into vector art and it would result in cleaner looking lines. So I learned the basics of my first vector art program, [Inkscape](https://inkscape.org/) and using my existing pixel art as a start, made vector art versions of my tiles.
 
-Art comparison: 
+Art comparison:
 ![Screenshot]({{ site.url }}/images/posts/2021/pixel_and_vector.png)
 
 #### Music
 
-I learned the basics of <a href=https://lmms.io/>LMMS</a> and used free VSTs and Soundfonts. Composing music is really fun but I found it really hard to make anything that I thought was any good. I decided to leave it at around 30 seconds of music that I was kind of happy with, but I'll need a lot more practice to make a larger soundtrack.
+I learned the basics of [LMMS](https://lmms.io/) and used free VSTs and Soundfonts. Composing music is really fun but I found it really hard to make anything that I thought was any good. I decided to leave it at around 30 seconds of music that I was kind of happy with, but I'll need a lot more practice to make a larger soundtrack.
 
 #### More options for SFX
 
-Another upside of learning LMMS was that I could enhance my SFX production options. In Larrikin Quest, I used only <a href=https://www.bfxr.net/>bfxr</a>, but LMMS has bfxr + heaps of other options since its an entire digital audio workstation. <a href=https://www.reddit.com/r/gamedev/comments/n4vhcs/150gb_of_high_quality_sound_effects_for_game/>I also used a few downloaded SFX from here.</a>
+Another upside of learning LMMS was that I could enhance my SFX production options. In Larrikin Quest, I used only [bfxr](https://www.bfxr.net/), but LMMS has bfxr + heaps of other options since its an entire digital audio workstation. [I also used a few downloaded SFX from here.](https://www.reddit.com/r/gamedev/comments/n4vhcs/150gb_of_high_quality_sound_effects_for_game/)
 
 #### Level editor
 
