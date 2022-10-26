@@ -15,7 +15,7 @@ Hi, it's been a while since I last wrote anything but for some time I've been th
 
 It's a bit existential but I wonder if the game I'm playing now will be around for a long time, or if the game I'm playing will be long gone and forgotten.
 
-I think there a lot of factors to it and I think I have to establish what the notion of game being alive *really* means.
+I think there are a lot of factors to it and I think I have to establish what the notion of a game being alive *really* means.
 
 # When a game dies
 
@@ -29,7 +29,7 @@ If we are to adapt this quote to games, it might go something like this:
 If no copies of a game exist, and no one remembers the rules, then we can say the game is truly dead.
 However one caveat is that whilst some games may die, they evolve into new forms over time and the influence of those original design ideas continue forward.
 
-For example, Chess's ancestor come from a game called chaturaṅga which we don't know the exact rules for. Chaturaṅga could be considered dead, but its descendants live on.
+For example, Chess's ancestor comes from a game called chaturaṅga which we don't know the exact rules for. Chaturaṅga could be considered dead, but its descendants live on.
 
 **Chaturaṅga**
 
@@ -43,7 +43,7 @@ In being so simple, it's carried by word-of-mouth from generation to generation,
 
 # The oldest rulebook in existence
 
-If we look beyond rules that people can keep in the minds, we need to write things down. 
+If we look beyond rules that people can keep in their minds, we need to write things down.
 The Royal Game of Ur is a board game that dates back to 2600-2400 BC. The rules were reconstructed from a Babylonian clay tablet. For a while, you could consider this game as being dead. But its rules lived on and it was possible for it live another life, 4000 years in the future.
 
 **The Royal Game of Ur with Irving Finkel, the man who deciphered the rules:**
@@ -84,8 +84,8 @@ Modern board game manufacturing is really quite a marvel, and the more complex t
 
 # When the component required is a computer
 
-As soon as a computer involved in the process of playing a game, we move to the realm of video games.
-Here there are a multitude of factors that can cause to die in rapid ways.
+As soon as a computer is involved in the process of playing a game, we move to the realm of video games.
+Here there are a multitude of factors that can cause a game to die in rapid ways.
 As new games come out and technology accelerates it's very easy for games to be lost without people preserving them.
 
 To give you a simple example, Adobe Flash, formerly known as Macromedia Flash and FutureSplash, was a multimedia software platform that allowed heaps of games to be created.
@@ -116,7 +116,7 @@ I've seen multiple games over the years be born and die only within a few years 
 
 ![MagickaWizardWars]({{ site.url }}/images/posts/2022/wizardwars.jpg)
 
-If a game was popular enough then people may attempt to run their own servers but the life of a game in that form is tenuous at best.
+If a game was popular enough, then people may attempt to run their own servers but the life of a game in that form is tenuous at best.
 
 
 # The double-edged sword of technology
@@ -129,9 +129,9 @@ However accelerating computing technology does have some preservation benefits, 
 
 # Humanity and their games
 
-This paints a grim picture of what may be lost in the future, long after we're gone. I think it's likely we will lose games and we will continue to make the same mistakes. But I also think there are people that care and that this is worthy cause to care about. 
+This paints a grim picture of what may be lost in the future, long after we're gone. I think it's likely we will lose games and we will continue to make the same mistakes. But I also think there are people that care and that this is a worthy cause to care about.
 
-We may wipe ourselves out one day, and if something else finds our remains, I believe they'll be able to piece some fun games back together. If we don't wipe ourselves out, I think there is a lot of work involved in remembering all of these games. More people are out there developing games than there are preserving them and we're continually burying what came before us.
+We may wipe ourselves out one day, and if something *else* finds our remains, I believe they'll be able to piece some fun games back together. If we don't wipe ourselves out, I think there is a lot of work involved in remembering all of these games. More people are out there developing games than there are preserving them and we're continually burying what came before us.
 
 We can speculate about what games might become in the future, VR, AR and beyond. Full simulations of worlds down to the atom. Plugging in directly with brain to computer interfaces. Science fiction can paint an awesome future, but we may still enjoy sitting around a table playing board games 1000 years from now.
 
